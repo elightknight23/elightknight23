@@ -48,11 +48,8 @@ Building AI-powered developer tools and full-stack platforms — from a from-scr
 Full-stack AI study platform with a resizable split-view workdesk, JWT-authenticated FastAPI backend, and a from-scratch hybrid RAG pipeline (no LangChain) that grounds every response in both current-page and globally-retrieved context. Streams responses over SSE using Gemini 2.0 Flash with a Groq Llama 3.3 70B fallback, and integrates PDF.js v4 for highlight-to-ask (Explain / Define / Summarise).
 
 <p>
-<img src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=39D353" />
-<img src="https://img.shields.io/badge/FastAPI-0D1117?style=for-the-badge&logo=fastapi&logoColor=2EA043" />
-<img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=39D353" />
-<img src="https://img.shields.io/badge/Gemini_API-0D1117?style=for-the-badge&logo=googlegemini&logoColor=2EA043" />
-<img src="https://img.shields.io/badge/Supabase-0D1117?style=for-the-badge&logo=supabase&logoColor=39D353" />
+<img src="https://skillicons.dev/icons?i=react,fastapi,py,supabase&theme=dark" alt="React, FastAPI, Python, Supabase" />
+<img src="https://img.shields.io/badge/Gemini_API-0D1117?style=for-the-badge&logoColor=2EA043" />
 </p>
 
 <img src="assets/folio.webp" width="100%" alt="Folio screenshot"/>
@@ -66,13 +63,7 @@ Full-stack AI study platform with a resizable split-view workdesk, JWT-authentic
 Indie-themed, Splitwise-style expense splitter where every balance is derived **live** from a 6-table relational ledger instead of stored — eliminating an entire class of balance-drift bugs. Runs a greedy minimum-transaction settlement algorithm that guarantees settlement in at most n−1 payments, with all money handled in integer cents. JWT auth (access + refresh, httpOnly cookies, bcrypt, silent refresh) backs an invitation-based membership system.
 
 <p>
-<img src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=39D353" />
-<img src="https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=2EA043" />
-<img src="https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=39D353" />
-<img src="https://img.shields.io/badge/Express-0D1117?style=for-the-badge&logo=express&logoColor=2EA043" />
-<img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=39D353" />
-<img src="https://img.shields.io/badge/Prisma-0D1117?style=for-the-badge&logo=prisma&logoColor=2EA043" />
-<img src="https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=39D353" />
+<img src="https://skillicons.dev/icons?i=react,ts,nodejs,express,postgres,prisma,docker&theme=dark" alt="React, TypeScript, Node.js, Express, PostgreSQL, Prisma, Docker" />
 </p>
 
 <img src="assets/splitledger.webp" width="100%" alt="SplitLedger screenshot"/>
@@ -86,7 +77,7 @@ Indie-themed, Splitwise-style expense splitter where every balance is derived **
 **RustifyC** — a compiler pass bringing Rust-like memory safety to C, implemented as an LLVM pass that inserts bounds checks at compile time.
 
 <p>
-<img src="https://img.shields.io/badge/C%2B%2B-0D1117?style=for-the-badge&logo=cplusplus&logoColor=39D353" />
+<img src="https://skillicons.dev/icons?i=cpp&theme=dark" alt="C++" />
 <img src="https://img.shields.io/badge/LLVM-0D1117?style=for-the-badge&logoColor=2EA043" />
 <img src="https://img.shields.io/badge/Compiler_Design-0D1117?style=for-the-badge&logoColor=39D353" />
 </p>
