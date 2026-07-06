@@ -1,0 +1,19 @@
+<svg viewBox="0 0 480 190" xmlns="http://www.w3.org/2000/svg" font-family="'SF Mono', Consolas, 'Liberation Mono', monospace">
+  <rect x="0" y="0" width="480" height="190" rx="10" fill="#1a1b27"/>
+  <rect x="0" y="0" width="480" height="28" rx="10" fill="#20222f"/>
+  <rect x="0" y="18" width="480" height="10" fill="#20222f"/>
+
+  <circle cx="16" cy="14" r="6" fill="#ff5f56"/>
+  <circle cx="34" cy="14" r="6" fill="#ffbd2e"/>
+  <circle cx="52" cy="14" r="6" fill="#27c93f"/>
+  <text x="240" y="18" text-anchor="middle" font-size="11" fill="#565f89">nithik@github:~</text>
+
+  <text x="16" y="55" font-size="13" fill="#38bdae">$ whoami</text>
+  <text x="16" y="75" font-size="13" fill="#c9d1d9">  Nithik Deva</text>
+
+  <text x="16" y="105" font-size="13" fill="#38bdae">$ currently_building</text>
+  <text x="16" y="125" font-size="13" fill="#c9d1d9">  RustifyC &#183; ServiceNow AI Agent</text>
+
+  <text x="16" y="155" font-size="13" fill="#38bdae">$ interests</text>
+  <text x="16" y="175" font-size="13" fill="#c9d1d9">  Agentic AI &#183; Compilers &#183; Distributed Sys</text>
+</svg>
