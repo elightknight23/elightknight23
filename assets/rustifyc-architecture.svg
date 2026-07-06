@@ -1,0 +1,35 @@
+<svg viewBox="0 0 1060 160" xmlns="http://www.w3.org/2000/svg" font-family="'JetBrains Mono', 'Fira Code', monospace">
+  <defs>
+    <marker id="arrowhead" markerWidth="8" markerHeight="8" refX="6" refY="4" orient="auto">
+      <path d="M0,0 L8,4 L0,8 Z" fill="#38bdae"/>
+    </marker>
+  </defs>
+
+  <rect x="0" y="0" width="1060" height="160" fill="#1a1b27" rx="12"/>
+
+  <!-- connectors -->
+  <line x1="190" y1="80" x2="235" y2="80" stroke="#38bdae" stroke-width="2" marker-end="url(#arrowhead)"/>
+  <line x1="405" y1="80" x2="450" y2="80" stroke="#38bdae" stroke-width="2" marker-end="url(#arrowhead)"/>
+  <line x1="620" y1="80" x2="665" y2="80" stroke="#38bdae" stroke-width="2" marker-end="url(#arrowhead)"/>
+  <line x1="835" y1="80" x2="880" y2="80" stroke="#38bdae" stroke-width="2" marker-end="url(#arrowhead)"/>
+
+  <!-- box 1: C Source -->
+  <rect x="20" y="45" width="170" height="70" rx="10" fill="#20222f" stroke="#70a5fd" stroke-width="1.5"/>
+  <text x="105" y="85" text-anchor="middle" fill="#70a5fd" font-size="15">C Source</text>
+
+  <!-- box 2: LLVM IR -->
+  <rect x="235" y="45" width="170" height="70" rx="10" fill="#20222f" stroke="#bf91f3" stroke-width="1.5"/>
+  <text x="320" y="85" text-anchor="middle" fill="#bf91f3" font-size="15">LLVM IR</text>
+
+  <!-- box 3: RustifyC Pass -->
+  <rect x="450" y="45" width="170" height="70" rx="10" fill="#20222f" stroke="#38bdae" stroke-width="1.5"/>
+  <text x="535" y="85" text-anchor="middle" fill="#38bdae" font-size="15">RustifyC Pass</text>
+
+  <!-- box 4: Bounds Checks -->
+  <rect x="665" y="45" width="170" height="70" rx="10" fill="#20222f" stroke="#70a5fd" stroke-width="1.5"/>
+  <text x="750" y="85" text-anchor="middle" fill="#70a5fd" font-size="15">Bounds Checks</text>
+
+  <!-- box 5: Executable -->
+  <rect x="880" y="45" width="160" height="70" rx="10" fill="#20222f" stroke="#bf91f3" stroke-width="1.5"/>
+  <text x="960" y="85" text-anchor="middle" fill="#bf91f3" font-size="15">Executable</text>
+</svg>
