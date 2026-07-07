@@ -32,6 +32,9 @@ jobs:
         continue-on-error: true
         run: python3 scripts/leetcode_card.py
 
+      - name: Verify dist contents
+        run: ls -la dist/ && test -f dist/leetcode-stats.svg
+
       - uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
