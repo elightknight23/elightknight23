@@ -22,7 +22,13 @@ def fetch_stats():
     req = urllib.request.Request(
         "https://leetcode.com/graphql",
         data=json.dumps({"query": QUERY, "variables": {"username": USERNAME}}).encode(),
-        headers={"Content-Type": "application/json"},
+        headers={
+            "Content-Type": "application/json",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
+            "(KHTML, like Gecko) Chrome/124.0 Safari/537.36",
+            "Referer": "https://leetcode.com",
+            "Origin": "https://leetcode.com",
+        },
     )
     with urllib.request.urlopen(req, timeout=15) as resp:
         data = json.load(resp)["data"]
