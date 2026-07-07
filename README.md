@@ -37,7 +37,7 @@ Building AI-powered developer tools and full-stack platforms — from a from-scr
 <table align="center">
 <tr>
 <td width="50%"><img src="https://streak-stats.demolab.com/?user=elightknight23&hide_border=true&background=0D1117&ring=2EA043&fire=39D353&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=39D353&sideLabels=8B949E&dates=8B949E" width="100%"/></td>
-<td width="50%"><img src="https://raw.githubusercontent.com/elightknight23/elightknight23/output/leetcode-stats.svg" width="100%"/></td>
+<td width="50%"><img src="https://leetcard.jacoblin.cool/elightknight23?theme=dark&font=Karla&ext=heatmap" width="100%"/></td>
 </tr>
 </table>
 
