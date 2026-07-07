@@ -1,23 +1,23 @@
 <h1 align="center">Nithik Deva</h1>
 
 <div align="center">
-<img src="assets/terminal.svg" width="480" alt="terminal" />
+<img src="assets/terminal.svg" width="100%" alt="terminal" />
 </div>
 
 ### About Me
 
-Building AI-powered developer tools and full-stack platforms — from a from-scratch hybrid RAG pipeline to a compiler pass for memory-safe C. Also captain my college swim team 🏊.
+Building AI-powered developer tools and full-stack platforms — from a from-scratch hybrid RAG pipeline to a compiler pass for memory-safe C. Also captain my college <img src="https://api.iconify.design/tabler/swimming.svg?color=%2339d353" width="15" height="15" style="vertical-align:-2px" /> swim team.
 
 **Exploring:** Agentic AI · Compiler Design · Distributed Systems
 
 ### Highlights
 
-- 🏊 Led NITW's Swim Team to 3rd overall, Inter-NIT Aquatics — Silver & Bronze (2025)
-- 🤖 1 of 20 selected nationally for ServiceNow's **AI.Accelerate**
-- 🧠 92% accuracy CV pipeline @ Eizen.ai (YOLO + LSTM)
-- ⚡ 600+ LeetCode problems solved
-- 🎓 B.Tech CSE @ NIT Warangal — CGPA 8.54/10
-- 📊 Analyst @ 180 Degrees Consulting · Coordinator @ Innovation Garage
+- <img src="https://api.iconify.design/tabler/swimming.svg?color=%2339d353" width="15" height="15" style="vertical-align:-2px" /> Led NITW's Swim Team to 3rd overall, Inter-NIT Aquatics — Silver & Bronze (2025)
+- <img src="https://api.iconify.design/tabler/robot.svg?color=%2339d353" width="15" height="15" style="vertical-align:-2px" /> 1 of 20 selected nationally for ServiceNow's **AI.Accelerate**
+- <img src="https://api.iconify.design/tabler/brain.svg?color=%2339d353" width="15" height="15" style="vertical-align:-2px" /> 92% accuracy CV pipeline @ Eizen.ai (YOLO + LSTM)
+- <img src="https://api.iconify.design/tabler/bolt.svg?color=%2339d353" width="15" height="15" style="vertical-align:-2px" /> 600+ LeetCode problems solved
+- <img src="https://api.iconify.design/tabler/school.svg?color=%2339d353" width="15" height="15" style="vertical-align:-2px" /> B.Tech CSE @ NIT Warangal — CGPA 8.54/10
+- <img src="https://api.iconify.design/tabler/chart-bar.svg?color=%2339d353" width="15" height="15" style="vertical-align:-2px" /> Analyst @ 180 Degrees Consulting · Coordinator @ Innovation Garage
 
 ### Tech Stack
 
@@ -27,23 +27,27 @@ Building AI-powered developer tools and full-stack platforms — from a from-scr
 
 ### Metrics
 
-<div align="center">
-
+<!-- github-readme-stats.vercel.app (main stats + top-langs cards) has been down (503 DEPLOYMENT_PAUSED)
+     for multiple days. Disabled below to avoid showing broken images — re-enable once it recovers,
+     or point these at a self-hosted instance:
 <img src="https://github-readme-stats.vercel.app/api?username=elightknight23&show_icons=true&hide_border=true&bg_color=0D1117&title_color=39D353&icon_color=2EA043&text_color=C9D1D9&count_private=true" width="100%"/>
-
-<img src="https://streak-stats.demolab.com/?user=elightknight23&hide_border=true&background=0D1117&ring=2EA043&fire=39D353&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=39D353&sideLabels=8B949E&dates=8B949E" width="100%"/>
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elightknight23&layout=compact&hide_border=true&bg_color=0D1117&title_color=39D353&text_color=C9D1D9" width="100%"/>
+-->
 
-<img src="https://leetcard.jacoblin.cool/elightknight23?theme=dark&font=Karla&ext=heatmap" width="100%"/>
+<table align="center">
+<tr>
+<td width="50%"><img src="https://streak-stats.demolab.com/?user=elightknight23&hide_border=true&background=0D1117&ring=2EA043&fire=39D353&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=39D353&sideLabels=8B949E&dates=8B949E" width="100%"/></td>
+<td width="50%"><img src="https://raw.githubusercontent.com/elightknight23/elightknight23/output/leetcode-stats.svg" width="100%"/></td>
+</tr>
+</table>
 
+<p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=elightknight23&hide_border=true&bg_color=0D1117&color=39D353&line=2EA043&point=39D353&area=true&area_color=2EA043&title_color=39D353" width="100%" alt="Contribution activity graph"/>
-
-</div>
+</p>
 
 ### Featured Projects
 
-#### 🗂️ Folio — AI Study Assistant
+#### <img src="https://api.iconify.design/tabler/folder.svg?color=%2339d353" width="20" height="20" style="vertical-align:-3px" /> Folio — AI Study Assistant
 
 Full-stack AI study platform with a resizable split-view workdesk, JWT-authenticated FastAPI backend, and a from-scratch hybrid RAG pipeline (no LangChain) that grounds every response in both current-page and globally-retrieved context. Streams responses over SSE using Gemini 2.0 Flash with a Groq Llama 3.3 70B fallback, and integrates PDF.js v4 for highlight-to-ask (Explain / Define / Summarise).
 
@@ -58,7 +62,7 @@ Full-stack AI study platform with a resizable split-view workdesk, JWT-authentic
 <a href="https://github.com/elightknight23/folio"><img src="https://img.shields.io/badge/View_Repository-0D1117?style=for-the-badge&logo=github&logoColor=39D353" /></a>
 </p>
 
-#### 💸 SplitLedger — Group Expense Splitting Platform
+#### <img src="https://api.iconify.design/tabler/cash.svg?color=%2339d353" width="20" height="20" style="vertical-align:-3px" /> SplitLedger — Group Expense Splitting Platform
 
 Indie-themed, Splitwise-style expense splitter where every balance is derived **live** from a 6-table relational ledger instead of stored — eliminating an entire class of balance-drift bugs. Runs a greedy minimum-transaction settlement algorithm that guarantees settlement in at most n−1 payments, with all money handled in integer cents. JWT auth (access + refresh, httpOnly cookies, bcrypt, silent refresh) backs an invitation-based membership system.
 
@@ -72,7 +76,7 @@ Indie-themed, Splitwise-style expense splitter where every balance is derived **
 <a href="https://github.com/elightknight23/splitledger"><img src="https://img.shields.io/badge/View_Repository-0D1117?style=for-the-badge&logo=github&logoColor=39D353" /></a>
 </p>
 
-### 🚧 Currently Building
+### <img src="https://api.iconify.design/tabler/tools.svg?color=%2339d353" width="20" height="20" style="vertical-align:-3px" /> Currently Building
 
 **RustifyC** — a compiler pass bringing Rust-like memory safety to C, implemented as an LLVM pass that inserts bounds checks at compile time.
 
