@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I'm Nithik</h1>
+<h1 align="center">Hello, I'm Nithik!</h1>
 
 <div align="center">
 <img src="assets/terminal.svg" width="100%" alt="terminal" />
