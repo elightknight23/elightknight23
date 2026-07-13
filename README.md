@@ -1,4 +1,4 @@
-<h1 align="center">Nithik Deva</h1>
+<h1 align="center">Hello, I'm Nithik</h1>
 
 <div align="center">
 <img src="assets/terminal.svg" width="100%" alt="terminal" />
@@ -6,18 +6,16 @@
 
 ### About Me
 
-Building AI-powered developer tools and full-stack platforms — from a from-scratch hybrid RAG pipeline to a compiler pass for memory-safe C. Also captain my college <img src="https://api.iconify.design/tabler/swimming.svg?color=%2339d353" width="15" height="15" style="vertical-align:-2px" /> swim team.
+I love building, exploring, and learning new skills, be it technical or recreational. I love designing things from posters to clothes. I'm captain of my college <img src="https://api.iconify.design/tabler/swimming.svg?color=%2339d353" width="15" height="15" style="vertical-align:-2px" /> swim team. Outside of that, I love travel and trying local cuisines, and i love discovering new music.
 
-**Exploring:** Agentic AI · Compiler Design · Distributed Systems
+**Exploring:** Agentic AI · Computer Vision · Cybersecurity
 
 ### Highlights
 
 - <img src="https://api.iconify.design/tabler/swimming.svg?color=%2339d353" width="15" height="15" style="vertical-align:-2px" /> Led NITW's Swim Team to 3rd overall, Inter-NIT Aquatics — Silver & Bronze (2025)
 - <img src="https://api.iconify.design/tabler/robot.svg?color=%2339d353" width="15" height="15" style="vertical-align:-2px" /> 1 of 20 selected nationally for ServiceNow's **AI.Accelerate**
-- <img src="https://api.iconify.design/tabler/brain.svg?color=%2339d353" width="15" height="15" style="vertical-align:-2px" /> 92% accuracy CV pipeline @ Eizen.ai (YOLO + LSTM)
-- <img src="https://api.iconify.design/tabler/bolt.svg?color=%2339d353" width="15" height="15" style="vertical-align:-2px" /> 600+ LeetCode problems solved
 - <img src="https://api.iconify.design/tabler/school.svg?color=%2339d353" width="15" height="15" style="vertical-align:-2px" /> B.Tech CSE @ NIT Warangal — CGPA 8.54/10
-- <img src="https://api.iconify.design/tabler/chart-bar.svg?color=%2339d353" width="15" height="15" style="vertical-align:-2px" /> Analyst @ 180 Degrees Consulting · Coordinator @ Innovation Garage
+- <img src="https://api.iconify.design/tabler/chart-bar.svg?color=%2339d353" width="15" height="15" style="vertical-align:-2px" /> Analyst @ 180 Degrees Consulting · Coordinator @ Innovation Garage - NITW
 
 ### Tech Stack
 
